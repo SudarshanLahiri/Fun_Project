@@ -1,4 +1,4 @@
-name = input("Enter your name: ")
+name = "Sudarshan"
 
 print("Hello,", name)
 print("Welcome to GitHub!")
